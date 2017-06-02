@@ -98,6 +98,7 @@ props => ({
 - [Is CSS-in-JS really bad for UX?](https://medium.com/@okonetchnikov/is-css-in-js-really-bad-for-ux-e9cce7b2da83) - CSS in JS performance implications - JS developers are too focused on DX and keep forgetting about how important performance for UX is.
 - [I swore never to use CSS in JS, here are 6 reasons why I was wrong](https://hackernoon.com/i-swore-never-to-use-css-in-js-here-are-6-reasons-why-i-was-wrong-541fe3dfdeb7)- *"When I first heard of this idea, I was shocked..."* But here are 6 reasons why it is useful.
 - [Journey to Enjoyable, Maintainable Styling with React, ITCSS, and CSS-in-JS](https://medium.com/maintainable-react-apps/journey-to-enjoyable-maintainable-styling-with-react-itcss-and-css-in-js-632cfa9c70d6) - Making Styling Better With better CSS / with Components / with JavaScript and final approach with ITCSS and Aphrodite
+- [Rockey. Motivation and Requirements](https://medium.com/@tuchk4/rockey-motivation-and-requirements-f787d1ed61e0) - Article about requirements for CSS in JS approach and motivation to develop another one CSS in JS library - rockey.
 - [CSS in JS: The Argument Refined](https://medium.com/@steida/css-in-js-the-argument-refined-471c7eb83955)
 - [Inline Styles are so 2016](https://medium.com/yplan-eng/inline-styles-are-so-2016-f100b79dafe1)
 - [“Scale” FUD and Style Components](https://medium.learnreact.com/scale-fud-and-style-components-c0ce87ec9772)
