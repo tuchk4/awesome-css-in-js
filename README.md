@@ -2,6 +2,7 @@
 
 A collection of awesome things regarding to CSS in JS approach
 
+[中文 README](README-ZH_CN.md)
 ## Table of Contents
 
 - [Libraries](#libraries)
