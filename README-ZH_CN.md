@@ -6,10 +6,10 @@
 
 ## 目录
 
-- [Libraries](#libraries)
-- [Articles](#articles)
-- [Videos](#videos)
-- [Benchmarks](#benchmarks)
+- [库](#库)
+- [文章](#文章)
+- [视频](#视频)
+- [基准测试](#基准测试)
 
 ## 库
 
@@ -119,7 +119,7 @@ props => ({
 - [Ryan's Random Thoughts on Inline Styles by Ryan Florence](https://www.youtube.com/watch?v=EkPcGS4TzdQ)
 
 
-## 基准测试和比较
+## 基准测试
 - [tuchk4/css-in-js-app](https://github.com/tuchk4/css-in-js-app) - 使用不同的cssin - js方法和库进行应用。
 - [A-gambit/CSS-IN-JS-Benchmarks](https://github.com/A-gambit/CSS-IN-JS-Benchmarks) [RESULTS.md](https://github.com/A-gambit/CSS-IN-JS-Benchmarks/blob/master/RESULT.md)
 - [hellofresh/css-in-js-perf-tests](https://github.com/hellofresh/css-in-js-perf-tests) - CSS-in-JS性能测试
