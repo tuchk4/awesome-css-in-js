@@ -12,6 +12,7 @@ A collection of awesome things regarding to CSS in JS approach
 
 ## Libraries
 
+- [emotion](https://emotion.sh/) - 👩‍🎤 The Next Generation of CSS-in-JS
 - [fela](https://github.com/rofrischmann/fela/) - Universal, Dynamic & High-Performance Styling in JavaScript
 - [styled-jss](https://github.com/cssinjs/styled-jss) - Styled Components on top of JSS
 - [react-jss](https://github.com/cssinjs/react-jss) - JSS integration for React
@@ -79,6 +80,7 @@ props => ({
 
 | Package | As Object | As TL | SSR | RN Support | Agnostic | Dynamic | Babel plugins | Bindings |
 |:-----------------:|:-------------:|:------------------------:|:--------------------:|----------------------|--------------------|-------------|---------------|----------|
+| [emotion](https://github.com/emotion-js/emotion) | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ | react-emotion, preact-emotion |
 | [fela](https://github.com/rofrischmann/fela/) | ✅ |  | ✅ | ✅ | ✅ | ✅ |  | [react-fela](http://fela.js.org/docs/guides/UsageWithReact.html) [native-fela](http://fela.js.org/docs/guides/UsageWithReactNative.html) [preact-fela](http://fela.js.org/docs/guides/UsageWithPreact.html) [inferno-fela](http://fela.js.org/docs/guides/UsageWithInferno.html) |
 | [jss](https://github.com/cssinjs/jss) | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ | [react-jss](https://github.com/cssinjs/react-jss) [styled-jss](https://github.com/cssinjs/styled-jss) |
 | [rockey](https://github.com/tuchk4/rockey) |  | ✅ |  |  | ✅ | ✅ |  | [rockey-react](https://github.com/tuchk4/rockey/tree/master/packages/rockey-react) |
