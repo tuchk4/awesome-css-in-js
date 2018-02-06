@@ -12,6 +12,7 @@ A collection of awesome things regarding to CSS in JS approach
 
 ## Libraries
 
+- [freestyler](https://github.com/streamich/freestyler) - 5<sup>th</sup> generation React styling library
 - [emotion](https://emotion.sh/) - 👩‍🎤 The Next Generation of CSS-in-JS
 - [fela](https://github.com/rofrischmann/fela/) - Universal, Dynamic & High-Performance Styling in JavaScript
 - [styled-jss](https://github.com/cssinjs/styled-jss) - Styled Components on top of JSS
