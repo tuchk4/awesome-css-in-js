@@ -12,6 +12,7 @@ A collection of awesome things regarding to CSS in JS approach
 
 ## Libraries
 
+- [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [freestyler](https://github.com/streamich/freestyler) - 5<sup>th</sup> generation React styling library
 - [emotion](https://emotion.sh/) - 👩‍🎤 The Next Generation of CSS-in-JS
 - [fela](https://github.com/rofrischmann/fela/) - Universal, Dynamic & High-Performance Styling in JavaScript
