@@ -120,6 +120,7 @@ props => ({
 - [Glamorous Walkthrough by Kent C. Dodds](https://www.youtube.com/watch?v=lmrQTpJ_3PM)
 - [ColdFront16 • Glenn Maddern: The Future of Reusable CSS](https://www.youtube.com/watch?v=XR6eM_5pAb0)
 - [Ryan's Random Thoughts on Inline Styles by Ryan Florence](https://www.youtube.com/watch?v=EkPcGS4TzdQ)
+- [CSS in JavaScript](https://www.manning.com/livevideo/css-in-javascript-with-styled-components-and-react)
 
 
 ## Benchmarks and comparison
