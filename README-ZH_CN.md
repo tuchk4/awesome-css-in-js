@@ -86,8 +86,8 @@ props => ({
 | [styled-components](https://github.com/styled-components/styled-components) |  | ✅ | ✅ | ✅ |  | ✅ | ✅ |  |
 | [aphrodite](https://github.com/Khan/aphrodite) | ✅ |  | ✅ |  | ✅ |  |  |  |
 | [csx](https://github.com/jxnblk/cxs) | ✅ |  | ✅ |  | ✅ |  |  |  |
-| [glam](https://github.com/threepointone/glam) |  | ✅ | ✅ |  | ✅ |  | ✅ |  |
-| [glamor](https://github.com/threepointone/glamor) |  | ✅ | ✅ |  | ✅ |  | ✅ |  |
+| [glam](https://github.com/threepointone/glam) | ✅ |  | ✅ |  | ✅ |  | ✅ |  |
+| [glamor](https://github.com/threepointone/glamor) | ✅ |  | ✅ |  | ✅ |  | ✅ |  |
 | [glamorous](https://github.com/paypal/glamorous) | ✅ |  | ✅ | ✅ |  | ✅ |  |  |
 | [styletron](https://github.com/rtsao/styletron) | ✅ |  | ✅ |  | ✅ | ✅ |  | [styletron-react](https://github.com/rtsao/styletron#using-styletron-with-react) |
 | [aesthetic](https://github.com/milesj/aesthetic) | ✅ |  |  |  | ✅ |  |  |  |
